@@ -1,2 +1,0 @@
-# ProjetoVilaReal
-WEB GERENCIAMENTO
